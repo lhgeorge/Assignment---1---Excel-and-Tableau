@@ -28,11 +28,7 @@ Welcome to the GitHub repository for our Wealth of Nations Data Analysis Project
 ## How to Use This Repository 📚
 
 - **Explore the Workbook**: Download the Excel file (password-protected) for a deep dive into the raw data and initial visualizations.
-- **View the Visuals**: Check out the Tableau visualizations in the 'Visuals' folder. Each visual comes with a brief description and insights.
-
-## Contributions and Feedback 💬
-
-Your contributions and feedback are what make this project grow! Feel free to fork, star, or comment if you have suggestions or want to contribute.
+- **View the Visuals**: Check out the Tableau visualizations in the 'Visuals' folder. Each visual comes with a tooltip description for some insights.
 
 ## Acknowledgements 🙏
 
